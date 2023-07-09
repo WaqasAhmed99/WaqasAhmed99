@@ -1,4 +1,3 @@
-![logo](https://github.com/WaqasAhmed99/WaqasAhmed99/blob/main/banner%20(2).png)
 <h1 align="center">Hi 👋, I'm Waqas Ahmed</h1>
 <h3 align="center">A passionate Web & App developer from Pakistan</h3>
 
@@ -12,7 +11,7 @@
 
 - 🌱 I’m currently learning **Programming Language**
 
-- 💬 Ask me about **Office, HTML, Css**
+- 💬 Ask me about **Office, HTML, CSS**
 
 - 📫 How to reach me **waqas01949@gmail.com**
 - 👨‍💻 All of my projects are available at [https://github.com/WaqasAhmed99?tab=repositories)
